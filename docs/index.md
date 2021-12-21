@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 Componente personalizado de botón multicolor
 ¿Cómo se usa?
 Es bastante simple, hay 3 formas de interacción entre el usuario y el componente, uno sería clickear un botón de color para que se realice una animación en la que el botón central cambia de su color natural al color seleccionado, pasando por una animación en la que pasa por una variante más suave de dicho color hasta llegar al color seleccionado. Eso no es todo, el botón principal en principio solo se usa para cambiar su color, pero también es interactuable, cada vez que lo clickeas cambiará de texto pidiendo que dejes de clickearlo, ya que no es la función del componente.
