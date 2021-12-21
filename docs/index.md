@@ -6,7 +6,7 @@ layout: default
 
 ## Partes del componente
 
-Consiste en 3 piezas claves, dos **paletas de colores** que en un inicio son azul y rojo y también un botón interactuable que cambia de color y muestra texto.
+Consiste en 3 piezas claves, dos **paletas de colores** que en un inicio son azul y rojo y también un **botón interactuable** que cambia de color y muestra texto.
 
 
 ## ¿Cómo se usa?
