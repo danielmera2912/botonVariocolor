@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Componente personalizado de botón multicolor
