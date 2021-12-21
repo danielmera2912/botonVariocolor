@@ -30,7 +30,7 @@ twitter_username: d
 github_username:  danielmera2912
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
