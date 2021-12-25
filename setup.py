@@ -4,7 +4,7 @@ setup(
     name='botonVariocolor',
     packages=['botonVariocolor'],
     version='0.1',
-    license='LGPL v3',
+    license='MIT',
     description='A random test lib',
     author='danielmera2912',
     author_email='dmersac2912@g.educaand.es',
