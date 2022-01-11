@@ -5,13 +5,13 @@ setup(
     packages=['botonVariocolor'],
     version='0.1',
     license='MIT',
-    description='A random test lib',
+    description='Componente que varía de color un botón con una paleta de color',
     author='danielmera2912',
     author_email='dmersac2912@g.educaand.es',
     url='https://github.com/danielmera2912/botonVariocolor',
     download_url='https://github.com/danielmera2912/botonVariocolor/archive/refs/tags/0.1.tar.gz',
-    keywords='test example develop', # Palabras que definan tu paquete
-    classifiers=['Programming Language :: Python',  # Clasificadores de compatibilidad con versiones de Python para tu paquete
+    keywords='variocolor', 
+    classifiers=['Programming Language :: Python',  
                  'Programming Language :: Python :: 2.7',
                  'Programming Language :: Python :: 3.3',
                  'Programming Language :: Python :: 3.4',
